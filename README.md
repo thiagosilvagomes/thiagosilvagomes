@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiagosilvagomes
-- 👀 I’m interested in learn JS, React, TypeScript and CSS
+- 👀 I’m interested in learn JS, React, TypeScript, HTML, CSS, UNIX and Linux servers, Network, Hardware, Virtualization
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on trying to teach some info I have in order to help someone.
 - 📫 How to reach me: leave me a message. 
